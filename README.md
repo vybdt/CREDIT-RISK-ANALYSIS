@@ -24,9 +24,9 @@ The main objective of this project is to analyze and evaluate the performance of
 This repository includes the following files:
 
 • **loan_customers_vn.csv:** Original dataset used for the analysis.  
-• **1. Exploratory Data Analysis.xlss:** Data cleaning, profiling, and preliminary exploration using Excel.
-• **2. SQL - Loan customer:** SQL queries for portfolio segmentation, NPL ratio analysis, and customer profiling.
-• **3. Dashboard - Loan Customer:** Interactive visualization of portfolio performance and credit risk metrics.  
+• **1. Exploratory Data Analysis.xlsx:** Data cleaning, profiling, and preliminary exploration using Excel.
+• **2. SQL - Loan customer.sql:** SQL queries for portfolio segmentation, NPL ratio analysis, and customer profiling.
+• **3. Dashboard - Loan Customer.pbix:** Interactive visualization of portfolio performance and credit risk metrics.  
 • **4. Slide - Loan Customer.pptx:** Summary report presenting insights, recommendations, and conclusions.  
 • **README.md:** Project documentation (this file).  
 
