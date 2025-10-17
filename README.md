@@ -73,9 +73,10 @@ To strengthen portfolio performance and manage risks effectively:
 # Tools Used
 
 • **Microsoft Excel** — Exploratory Data Analysis 
-* **SQL (Microsoft SQL Server)** — Data extraction, transformation, and summary table creation for visualization.
-• **Power BI** — Visualization and dashboard creation.  
+• **SQL (Microsoft SQL Server)** — Data extraction, transformation, and summary table creation for visualization.
+• **Power BI** — Visualization and dashboard creation.
 • **Microsoft PowerPoint** — Business storytelling and report presentation.  
+
 
 ---
 
