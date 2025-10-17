@@ -27,7 +27,7 @@ This repository includes the following files:
 • **1. Exploratory Data Analysis.xlsx:** Data cleaning, profiling, and preliminary exploration using Excel.<br>
 • **2. SQL - Loan customer.sql:** SQL queries for portfolio segmentation, NPL ratio analysis, and customer profiling.<br>
 • **3. Dashboard - Loan Customer.pbix:** Interactive visualization of portfolio performance and credit risk metrics.  <br>
-• **4. Slide - Loan Customer.pptx:** Summary report presenting insights, recommendations, and conclusions.  <br>
+• **4. Slide - Loan Customer.pdf:** Summary report presenting insights, recommendations, and conclusions.  <br>
 • **README.md:** Project documentation (this file).  
 
 ---
