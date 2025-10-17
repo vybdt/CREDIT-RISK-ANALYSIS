@@ -23,11 +23,11 @@ The main objective of this project is to analyze and evaluate the performance of
 
 This repository includes the following files:
 
-• **loan_customers_vn.csv:** Original dataset used for the analysis.  
-• **1. Exploratory Data Analysis.xlsx:** Data cleaning, profiling, and preliminary exploration using Excel.
-• **2. SQL - Loan customer.sql:** SQL queries for portfolio segmentation, NPL ratio analysis, and customer profiling.
-• **3. Dashboard - Loan Customer.pbix:** Interactive visualization of portfolio performance and credit risk metrics.  
-• **4. Slide - Loan Customer.pptx:** Summary report presenting insights, recommendations, and conclusions.  
+• **loan_customers_vn.csv:** Original dataset used for the analysis.  <br>
+• **1. Exploratory Data Analysis.xlsx:** Data cleaning, profiling, and preliminary exploration using Excel.<br>
+• **2. SQL - Loan customer.sql:** SQL queries for portfolio segmentation, NPL ratio analysis, and customer profiling.<br>
+• **3. Dashboard - Loan Customer.pbix:** Interactive visualization of portfolio performance and credit risk metrics.  <br>
+• **4. Slide - Loan Customer.pptx:** Summary report presenting insights, recommendations, and conclusions.  <br>
 • **README.md:** Project documentation (this file).  
 
 ---
@@ -37,11 +37,13 @@ This repository includes the following files:
 Below are sample pages from the Power BI dashboard that visualize portfolio performance and credit quality trends:
 
 1️⃣ **Loan Portfolio Overview** — Loan amount and customer distribution by income, occupation, and region.  
+<br>
 <img width="1377" height="766" alt="image" src="https://github.com/user-attachments/assets/68449a1a-09ee-4a7f-a757-5b1dd8620d02" />
-
-
+<br>
+<br>
 
 2️⃣ **Credit Risk & Performance** — NPL% trend over time, breakdown by tenor, region, and age group.  
+<br>
 <img width="1377" height="763" alt="image" src="https://github.com/user-attachments/assets/a1cd8026-561f-4e80-abba-d454afccb599" />
 
 ---
@@ -72,19 +74,19 @@ To strengthen portfolio performance and manage risks effectively:
 
 # Tools Used
 
-• **Microsoft Excel** — Exploratory Data Analysis 
-• **SQL (Microsoft SQL Server)** — Data extraction, transformation, and summary table creation for visualization.
-• **Power BI** — Visualization and dashboard creation.
-• **Microsoft PowerPoint** — Business storytelling and report presentation.  
+• **Microsoft Excel** — Exploratory Data Analysis. <br>
+• **SQL (Microsoft SQL Server)** — Data extraction, transformation, and summary table creation for visualization.<br>
+• **Power BI** — Visualization and dashboard creation.<br>
+• **Microsoft PowerPoint** — Business storytelling and report presentation.  <br>
 
 
 ---
 
 # Conclusion
 
-- Analyze financial and customer data,
-- Visualize insights clearly using Power BI,
-- Translate data into strategic business recommendations.
+• Analyze financial and customer data<br>
+• Visualize insights clearly using Power BI<br>
+• Translate data into strategic business recommendations<br>
 
 I hope this analysis provides a valuable perspective on how data analytics can enhance credit risk management and portfolio health.
 
